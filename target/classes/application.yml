@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springboot-study
+server:
+  port: 18001
